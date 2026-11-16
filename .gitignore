@@ -2,3 +2,5 @@
 node_modules
 .venv
 original_photos
+.next/
+out/
